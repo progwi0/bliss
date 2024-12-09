@@ -1,4 +1,4 @@
-/* Bliss 1.0.2, Created by Progwi0. */
+/* Bliss 1.0.3, Created by Progwi0. */
 
 /* Animations */
 
@@ -271,9 +271,13 @@ input[theme="light"]{
 	height: 100%;
 }
 
-/* iframes */
+/* objects and iframes */
 
 iframe{
+	border-radius: 10px;
+}
+
+object{
 	border-radius: 10px;
 }
 

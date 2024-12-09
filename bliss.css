@@ -1,11 +1,13 @@
-/* Bliss 1.0.3, Created by Progwi0. */
+/* Bliss 1.1.0, Created by Progwi0. */
 
-/* Animations */
+/* Font */
 
 @font-face{
 	font-family: Inter;
 	src: url("./fonts/inter.ttf");
 }
+
+/* Animations */
 
 @keyframes darkHoverFrom{
 	from{
@@ -172,6 +174,43 @@ body{
   	align-items: center;
  	justify-content: center;
  	flex-direction: column;
+}
+
+alargebodyofwatersurroundedbymountains
+
+body[wallpaper="elementary:morskieoko"]{
+	background-image: url("./wallpapers/elementary/morskieoko.jpg");
+	color: white;	
+}
+
+body[wallpaper="elementary:valley"]{
+	background-image: url("./wallpapers/elementary/valley.jpg");
+	color: black;	
+}
+
+body[wallpaper="elementary:ashimdsilva"]{
+	background-image: url("./wallpapers/elementary/ashimdsilva.jpg");
+	color: white;	
+}
+
+body[wallpaper="elementary:odin"]{
+	background-image: url("./wallpapers/elementary/odin.jpg");
+	color: white;	
+}
+
+body[wallpaper="elementary:odindark"]{
+	background-image: url("./wallpapers/elementary/odindark.jpg");
+	color: white;	
+}
+
+body[wallpaper="elementary:alargebodyofwatersurroundedbymountains"]{
+	background-image: url("./wallpapers/elementary/alargebodyofwatersurroundedbymountains.jpg");
+	color: white;	
+}
+
+body[wallpaper="elementary:albowsbm"]{
+	background-image: url("./wallpapers/elementary/alargebodyofwatersurroundedbymountains.jpg");
+	color: black;	
 }
 
 body[theme="dark"]{

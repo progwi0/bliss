@@ -1,4 +1,4 @@
-/* Bliss 1.0.1, Created by Progwi0. */
+/* Bliss 1.0.2, Created by Progwi0. */
 
 /* Animations */
 
@@ -98,7 +98,7 @@
 @keyframes suggestHoverFrom{
 	from{
 		background-color: rgba(0, 153, 255, 1);
-		color: rgba(,255, 255, 255, 1);
+		color: rgba(255, 255, 255, 1);
 	}
 	to{
 		background-color: rgba(52, 174, 255, 1);

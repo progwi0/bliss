@@ -1,4 +1,4 @@
-/* Bliss 1.1.1, Created by Progwi0. */
+/* Bliss 1.1.2, Created by Progwi0. */
 
 /* Font */
 
@@ -155,6 +155,42 @@
 	}
 	to{
 		display: none;
+	}
+}
+
+@keyframes vsquishIn{
+	from{
+		height: 0px;
+	}
+	to{
+		height: 30%;
+	}
+}
+
+@keyframes vsquishOut{
+	from{
+		height: 30%;
+	}
+	to{
+		height: 0px;
+	}
+}
+
+@keyframes hsquishIn{
+	from{
+		width: 0px;
+	}
+	to{
+		width: 30%;
+	}
+}
+
+@keyframes hsquishOut{
+	from{
+		width: 30%;
+	}
+	to{
+		width: 0px;
 	}
 }
 
@@ -455,4 +491,8 @@ object{
 .box{
 	width: 100%;
 	height: 100%;
+}
+
+.space{
+	height: 3px;
 }

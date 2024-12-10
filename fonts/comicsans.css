@@ -1,0 +1,8 @@
+/* Comic Sans for Bliss, Created by Progwi0. */
+
+/* Font */
+
+@font-face{
+	font-family: Comic Sans;
+	src: url("./fonts/comicsans.ttf");
+}

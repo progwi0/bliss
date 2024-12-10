@@ -1,4 +1,4 @@
-/* Bliss 1.1.0, Created by Progwi0. */
+/* Bliss 1.1.1, Created by Progwi0. */
 
 /* Font */
 
@@ -211,6 +211,16 @@ body[wallpaper="elementary:alargebodyofwatersurroundedbymountains"]{
 body[wallpaper="elementary:albowsbm"]{
 	background-image: url("./wallpapers/elementary/alargebodyofwatersurroundedbymountains.jpg");
 	color: black;	
+}
+
+body[wallpaper="elementary:holowaychuk"]{
+	background-image: url("./wallpapers/elementary/holowaychuk.jpg");
+	color: white;	
+}
+
+body[wallpaper="elementary:mrlee"]{
+	background-image: url("./wallpapers/elementary/mrlee.jpg");
+	color: white;	
 }
 
 body[theme="dark"]{

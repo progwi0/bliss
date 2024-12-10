@@ -4,5 +4,17 @@
 
 @font-face{
 	font-family: Comic Sans;
-	src: url("./fonts/comicsans.ttf");
+	src: url("comicsans.ttf");
+}
+
+body{
+	font-family: Comic Sans;
+}
+
+button{
+	font-family: Comic Sans;
+}
+
+input{
+	font-family: Comic Sans;
 }

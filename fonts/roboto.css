@@ -4,5 +4,17 @@
 
 @font-face{
 	font-family: Roboto;
-	src: url("./fonts/roboto.ttf");
+	src: url("roboto.ttf");
+}
+
+body{
+	font-family: Roboto;
+}
+
+button{
+	font-family: Roboto;
+}
+
+input{
+	font-family: Roboto;
 }

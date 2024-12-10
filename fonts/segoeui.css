@@ -4,5 +4,17 @@
 
 @font-face{
 	font-family: Segoe UI;
-	src: url("./fonts/segoeui.ttf");
+	src: url("segoeui.ttf");
+}
+
+body{
+	font-family: Segoe UI;
+}
+
+button{
+	font-family: Segoe UI;
+}
+
+input{
+	font-family: Segoe UI;
 }

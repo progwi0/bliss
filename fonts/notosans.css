@@ -4,5 +4,17 @@
 
 @font-face{
 	font-family: Noto Sans;
-	src: url("./fonts/notosans.ttf");
+	src: url("notosans.ttf");
+}
+
+body{
+	font-family: Noto Sans;
+}
+
+button{
+	font-family: Noto Sans;
+}
+
+input{
+	font-family: Noto Sans;
 }

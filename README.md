@@ -1,2 +1,1 @@
-bliss - sigma css file for your html app, that looks similar to gnome's libadwaita!!1!!
-(idk englesh mek)
+Bliss - CSS-file, that makes your project look like libadwaita from GNOME.
